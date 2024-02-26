@@ -2,3 +2,5 @@ Fourth file text
 
 This file was modified in the Feature branch
 Changed main frature for conflict
+
+New Changed for second conflict
